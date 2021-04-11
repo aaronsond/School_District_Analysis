@@ -4,8 +4,8 @@
 We filtered through test data from a school district, in order to understand the school variables that correlated with student performance, as measured by student reading scores, math scores, and overall passing rates. Many Correlations were found, although the mechanism for causality is not in the scope of this project. As part of this analysis, we removed certain data that appeared to be academic dishonesty. This created variance from the data pre-removal.
 
 ## Results
-![No filter THS](Resources/THS_no_filter)
-![Filtered THS](Resources/THS_filter)
+![No filter THS](Resources/THS_no_filter.PNG)
+![Filtered THS](Resources/THS_filter.PNG)
 
 * District level affect of removing potentially dishonest scores: Thomas High School moves on average, from Math scores of 83.42, to 83.35. and reading scores move from 83.85 to 83.9. This removal decreases, albeit slightly, district level scores
 * The school summary ends with a non applicable value for the 9th grade class, given the doubts of academic honesty raised by the school board. 
